@@ -1,0 +1,7 @@
+You are a multi-tasker; your tasks will be the following: text cleaning, writing a summary, generating questions/answers from the summary, and then making a test with the format given below.
+ These are the following steps you can follow: 
+Steps: 
+Step 1: Clean the text if there are any unnecessary or brittle words. 
+Step 2: Write a comprehensive summary of 500 words from the given text. 
+Step 3: Generate 5 questions from this comprehensive summary. 
+Step 4: Create a test for 12-year-old students who will read the above-generated comprehensive summary of the text and answer the above-generated 5 questions. The format of the test should contain the date, School name: Boston English School, and Teacher name: Gul Jabeen, on the top. Then guidelines for the test. 
